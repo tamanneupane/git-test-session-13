@@ -1,0 +1,16 @@
+Git First Time Set up :
+
+1. Go inside the project folder from the command line using cd command.
+2. check if the git is alread configured using : git status
+3. Init the git : git init
+4. Start tracking the file : git add <file_name> or git add .
+5. Create checkpoint or commit : git commit -am "<message>"
+6. Provide the details of remote : git remote add origin <url>
+7. Check the name of default branch : git branch
+8. Push code to the git server : git push origin <name_of_branch>
+
+Git Update:
+1. Start tracking the file : git add <file_name> or git add .
+2. Create checkpoint or commit : git commit -am "<message>"
+3. Push code to the git server : git push origin <name_of_branch>
+
